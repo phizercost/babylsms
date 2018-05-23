@@ -1,0 +1,7 @@
+com/phizercost/babylsms/model/file/FileObject.class
+com/phizercost/babylsms/model/customer/Customer.class
+com/phizercost/babylsms/model/schedule/Schedule.class
+com/phizercost/babylsms/model/user/User.class
+com/phizercost/babylsms/model/schedule/BroadcastDetails.class
+com/phizercost/babylsms/model/sender/Sender.class
+com/phizercost/babylsms/model/message/Message.class

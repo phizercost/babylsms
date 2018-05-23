@@ -1,0 +1,6 @@
+com/phizercost/babylsms/repository/savesender/SaveSenderRepository.class
+com/phizercost/babylsms/repository/savecustomer/SaveCustomerRepository.class
+com/phizercost/babylsms/repository/schedule/ScheduleRepository.class
+com/phizercost/babylsms/repository/security/UserRepository.class
+com/phizercost/babylsms/repository/loadfile/LoadFileRepository.class
+com/phizercost/babylsms/repository/customer/CustomerRepository.class
